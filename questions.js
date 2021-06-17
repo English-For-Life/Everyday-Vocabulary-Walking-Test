@@ -58,7 +58,7 @@ const quiz = [
     },
     {
         q:"The exhausted men had to _______ for five miles through the snow.",
-        options:["slip", "dash", "trudge", "trudge"],
+        options:["slip", "dash", "wander", "trudge"],
         answer: 3
     }
 
